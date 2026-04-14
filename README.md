@@ -11,7 +11,11 @@ Python: Employed for advanced data cleaning (Pandas) and exploratory data analys
 Power BI: Developed an interactive executive dashboard to visualize KPIs such as Total Revenue, Profit Margins, and Monthly Sales Trends. Implemented DAX measures for dynamic time-intelligence reporting and slicers for regional performance breakdowns.
 
 Key Insights:
+
 Customer Satisfaction Gap: The Average Rating of 3.30 suggests a "neutral-to-positive" sentiment, but indicates significant room for improvement in service or product quality to reach a 4.0+ benchmark.
+
 Low-Performing Inventory: The "Least Rated Products" chart identifies products of low rating. This warrants a quality audit or a change in supplier for that specific line.
+
 Sales vs. Satisfaction Correlation: The scatter plot shows a high density of products moving in quantities between 45 and 65 units, but with widely varying ratings. This suggests that high sales volume does not necessarily correlate with high customer satisfaction in this store.
+
 Concentration Risk: The revenue is heavily concentrated among the top 5 customers. Implementing a loyalty program specifically for these "Power Users" is critical for revenue stability.
