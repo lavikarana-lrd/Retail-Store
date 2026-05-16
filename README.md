@@ -19,3 +19,5 @@ Low-Performing Inventory: The "Least Rated Products" chart identifies products o
 Sales vs. Satisfaction Correlation: The scatter plot shows a high density of products moving in quantities between 45 and 65 units, but with widely varying ratings. This suggests that high sales volume does not necessarily correlate with high customer satisfaction in this store.
 
 Concentration Risk: The revenue is heavily concentrated among the top 5 customers. Implementing a loyalty program specifically for these "Power Users" is critical for revenue stability.
+
+This is the link of the dashboard overview: [https://github.com/lavikarana-lrd/Retail-Store/blob/main/retail_store.png]
